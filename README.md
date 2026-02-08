@@ -1,6 +1,5 @@
  Hi there , I am Shreyashi👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 I am a CSE major student who loves designing web apps and learning new technologies.<br>Currently exploring more of Js and Cloud services.<br>Always experimenting, always improving.<br>I am also interested to learn about Blockchain and will hopefully do so pretty soon,<br>Trying to learn Redux currently, planning to make a project implementing it by March 2026.
 
 
